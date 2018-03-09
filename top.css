@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+/* boby全てに写真を載せる */
+body{
+background-image: url(./top.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 1280px;
+height: 916px;
+}
+
+
+/* menu */
+.menu{
+  text-align: center;
+  width: 1280px;
+  height: 916px;
+  padding-top: 730px;
+}
+
+.about{
+  color: #C71585;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 0.5em;
+  width: 150px;
+  height: 80px;
+  text-decoration: none;
+
+}
+
+.about:hover{
+  transition: 0.5s;
+  background-color: #FF82B2;
+  color: #ffff;
+}
+
+.entry{
+  color: #C71585;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 0.5em;
+  width: 150px;
+  height: 80px;
+  text-decoration: none;
+}
+
+.entry:hover{
+  transition: 0.5s;
+  background-color: #FF82B2;
+  color: #ffff;
+}
+
+.vote{
+  color: #C71585;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 0.5em;
+  width: 150px;
+  height: 80px;
+  text-decoration: none;
+}
+
+.vote:hover{
+  transition: 0.5s;
+  background-color: #FF82B2;
+  color: #ffff;
+}
+
+.ranking{
+  color: #C71585;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 0.5em;
+  width: 150px;
+  height: 80px;
+  text-decoration: none;
+}
+
+.ranking:hover{
+  transition: 0.5s;
+  background-color: #FF82B2;
+  color: #ffff;
+}
